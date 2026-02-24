@@ -31,4 +31,5 @@ Assuntos favoritos em computação: criptografia, opsec, sistemas distribuídos,
 
 Contact/Contato:  
 - [fxlipe124@pm.me](mailto:fxlipe124@pm.me)
-- t.me/fxlipe  
+- [t.me/fxlipe](https://t.me/fxlipe) / @fxlipe  
+
