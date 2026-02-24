@@ -18,7 +18,7 @@ My areas of interest include AI, DevOps, Decentralized Systems, and automations.
 I'm a computer engineer, developer, and data scientist, libertarian and studious. I enjoy making money.  
 
 My favorite topics in general: Bitcoin, economics, flag theory, libertarianism.  
-My favorite topics in computing: cryptography, OPSec, cybersecurity, decentralization, FOSS (free and open source software), and others.  
+My favorite topics in computing: cryptography, opsec, distributed systems, cloud computing, FOSS (free and open source software), and others.
 
   
 PT:  
@@ -27,4 +27,4 @@ Minhas áreas de interesse incluem IA, DevOps, Sistemas Descentralizados e autom
 Sou engenheiro de computação, desenvolvedor e cientista de dados, libertário e estudioso, gosto de fazer dinheiro.  
 
 Assuntos favoritos no geral: Bitcoin, economia, teoria das bandeiras, libertarianismo.  
-Assuntos favoritos em computação: criptografia, opsec, cybersecurity, descentralização, FOSS (free and open source software) e outros.
+Assuntos favoritos em computação: criptografia, opsec, sistemas distribuídos, computação em nuvem, FOSS (free and open source software) e outros.
