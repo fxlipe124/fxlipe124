@@ -30,5 +30,5 @@ Assuntos favoritos no geral: Bitcoin, economia, teoria das bandeiras, libertaria
 Assuntos favoritos em computação: criptografia, opsec, sistemas distribuídos, computação em nuvem, FOSS (free and open source software) e outros.
 
 Contact/Contato:  
-fxlipe124@pm.me  
-t.me/fxlipe  
+- [fxlipe124@pm.me](mailto:fxlipe124@pm.me)
+- t.me/fxlipe  
