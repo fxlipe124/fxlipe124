@@ -28,3 +28,7 @@ Sou engenheiro de computação, desenvolvedor e cientista de dados, libertário 
 
 Assuntos favoritos no geral: Bitcoin, economia, teoria das bandeiras, libertarianismo.  
 Assuntos favoritos em computação: criptografia, opsec, sistemas distribuídos, computação em nuvem, FOSS (free and open source software) e outros.
+
+Contact/Contato:
+fxlipe124@pm.me
+t.me/fxlipe
