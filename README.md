@@ -19,6 +19,7 @@ I'm a computer engineer, developer, and data scientist, libertarian and studious
 My favorite topics in general: Bitcoin, economics, flag theory, libertarianism.  
 My favorite topics in computing: cryptography, OPSec, cybersecurity, decentralization, FOSS (free and open source software), and others.
 
+  
 PT:  
 Meu nome é Felipe. Sou apaixonado por criar soluções inovadoras e automações para otimizar processos e impulsionar a eficiência. Minhas áreas de interesse incluem IA, DevOps, Sistemas Descentralizados e automação.
 Sou engenheiro de computação, desenvolvedor e cientista de dados, libertário e estudioso, gosto de fazer dinheiro e conversar sobre o mundo.
